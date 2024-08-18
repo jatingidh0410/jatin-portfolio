@@ -49,7 +49,7 @@ const RecentProjects = () => {
                 </div>
                 <div className="flex justify-center items-center">
                   <p className="flex lg:text-lg md:text-xm text-sm 
-                  text-purple ">Check my src code</p>
+                  text-purple ">Check my source code</p>
                   <FaLocationArrow className="ms-3" color='#CBACF9'/>
                 </div>
               </div >
