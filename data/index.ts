@@ -1,7 +1,7 @@
   export const navItems = [
     { name: "About", link: "#about" },
     { name: "Projects", link: "#projects" },
-    { name: "Skills", link: "#skills" },
+    { name: "Certifications", link: "#testimonials" },
     { name: "Contact", link: "#contact" },
 
   ];
@@ -19,7 +19,7 @@
     },
     {
       id: 2,
-      title: "Flexible Across Time Zones, Securing Your Digital World",
+      title: "Synchronizing Security Across All Time Zones",
       description: "",
       className: "lg:col-span-1 md:col-span-3 md:row-span-1",
       imgClassName: "",
@@ -29,7 +29,7 @@
     },
     {
       id: 3,
-      title: "My tech stack",
+      title: "My tech Stack",
       description: "I constantly try to improve",
       className: "lg:col-span-1 md:col-span-3 md:row-span-1",
       imgClassName: "",
@@ -43,7 +43,7 @@
       description: "",
       className: "lg:col-span-1 md:col-span-3 md:row-span-1 lg:row-span-1",
       imgClassName: "",
-      titleClassName: "justify-end md:max-w-full max-w-60 text-center",
+      titleClassName: "justify-end text-center md:max-w-full max-w-60 ",
       img: "",
       spareImg: "",
     },
@@ -111,6 +111,34 @@
       link:"https://www.linkedin.com/in/jatin-gidh-030166273/",
     },
     ];
+    export const testimonials = [
+      {
+        image: "/cr1.jpg"
+      },
+      {
+        image: "/cr2.jpg"
+      },
+      {
+        image: "/cr3.jpg"
+      },
+      
+      {
+        image: "/cr7.jpg"
+      },
+      {
+        image: "/cr5.jpg"
+      },
+      {
+        image: "/cr4.jpg"
+      },
+      {
+        image: "/cr6.jpg"
+      },
+      {
+        image: "/cr8.jpg"
+      },
+    ];
+    
     export const workExperience = [
       {
         id: 1,
@@ -119,25 +147,27 @@
         className: "md:col-span-2",
         thumbnail: "/exp1.svg",
       },
-      {
-        id: 2,
-        title: "Cybersecurity Fundamentals",
-        desc: "Earned the Cybersecurity Fundamentals certification from IBM",
-        className: "md:col-span-2", // change to md:col-span-2
-        thumbnail: "/exp2.svg",
-      },
-      {
-        id: 3,
-        title: "Completed Cybersecurity Training.",
-        desc: "Certified in Cybersecurity through Tech Mahindra Foundation's online course, validated by NSDC & Skill India",
-        className: "md:col-span-2", // change to md:col-span-2
-        thumbnail: "/exp3.svg",
-      },
+      // {
+      //   id: 2,
+      //   title: "Cybersecurity Fundamentals",
+      //   desc: "Earned the Cybersecurity Fundamentals certification from IBM",
+      //   className: "md:col-span-2", // change to md:col-span-2
+      //   thumbnail: "/exp2.svg",
+      // },
+      // {
+      //   id: 3,
+      //   title: "Completed Cybersecurity Training.",
+      //   desc: "Certified in Cybersecurity through Tech Mahindra Foundation's online course, validated by NSDC & Skill India",
+      //   className: "md:col-span-2", // change to md:col-span-2
+      //   thumbnail: "/exp3.svg",
+      // },
       {
         id: 4,
-        title: "Learn Ethical Hacking From Scratch.",
-        desc: "successfully completed the Learn Ethical Hacking From Scratch 2024 course on Udemy, taught by the renowned Zaid Sabih of zSecurity",
+        title: "Admin of SIES IT Development Club",
+        desc: "As the Admin of the SIES IT Dev Club, I facilitated learning for numerous individuals and organized various bootcamps to enhance their technical skills. My role involved coordinating events, mentoring members.",
         className: "md:col-span-2",
         thumbnail: "/exp4.svg",
       },
     ];
+
+    
