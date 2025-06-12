@@ -108,7 +108,7 @@
     {
       id: 3,
       img: "/link.svg",
-      link:"https://www.linkedin.com/in/jatin-gidh-030166273/",
+      link:"https://www.linkedin.com/in/jatin-gidh/",
     },
     ];
     export const testimonials = [
