@@ -67,7 +67,7 @@
       des: "An AI-powered malware detection web app built with Python and Streamlit, designed for real-time file scanning and threat analysis.",
       img: "/sen2.jpg",
       iconLists: ["py.png","streamlit-logo.png"],
-      link: "",
+      link: "https://sentinelguard.streamlit.app/",
     },
     {
       id: 1,
