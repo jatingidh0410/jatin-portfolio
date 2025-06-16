@@ -62,6 +62,14 @@
   
   export const projects = [
     {
+      id: 3,
+      title: "SentinelGuard | Cybersecurity Monitoring App",
+      des: "An AI-powered malware detection web app built with Python and Streamlit, designed for real-time file scanning and threat analysis.",
+      img: "/sen2.jpg",
+      iconLists: ["py.png","streamlit-logo.png"],
+      link: "",
+    },
+    {
       id: 1,
       title: "Mario Using Python",
       des: "This project is inspired by the classic Mario series, developed entirely in Python",
@@ -77,14 +85,7 @@
       iconLists: ["java.png"],
       link: "https://github.com/jatingidh0410/leetcode",
     },
-    // {
-    //   id: 3,
-    //   title: "AI Image SaaS - Canva Application",
-    //   des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
-    //   img: "/p3.svg",
-    //   iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-    //   link: "",
-    // },
+    
     // {
     //   id: 4,
     //   title: "Animated Apple Iphone 3D Website",
