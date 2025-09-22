@@ -33,7 +33,7 @@ This portfolio highlights my work in:
 - **React Router**
 
 ## 📫 Contact
-    - Email: jatingidh04@gail.com
+    - Email: jatingidh04@gmail.com
     - LinkedIn: www.linkedin.com/in/jatin-gidh-030166273
     - GitHub: https://github.com/jatingidh0410
     
